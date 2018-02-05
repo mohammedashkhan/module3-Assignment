@@ -1,6 +1,6 @@
 /** Navbar, overriding bootstraps default colors for background, borders, some elements position etc. **/
 #header-nav {
-	background-color: #7AE7C7;
+	background-color: #512DA8;
 	border-color: #6FD2B5;
 	border-radius: 0;
 	border: 0;
@@ -56,14 +56,14 @@ h3 {
 }
 
 #chicken {
-	background-color: #FFF689;
+	background-color: #F4511E;
 }
 
 #beef {
-	background-color: #EC0B43;
+	background-color: #616161;
 }
 
 #sushi {
-	background-color: #D6FFB7;
+	background-color: #43A047;
 }
 /** End main content **/
